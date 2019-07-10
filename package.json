@@ -1,0 +1,9 @@
+{
+  "name": "instagram-bot",
+  "version": "0.0.0",
+  "description": "InstagramBOT",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
